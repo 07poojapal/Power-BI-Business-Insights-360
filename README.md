@@ -2,8 +2,8 @@
 SQL Data Exploration & Power BI Dashboard.
 
 #Link to my Dashboard
-🔷Live Dashboard - [https://www.novypro.com/project/business-insights-360-4](https://app.powerbi.com/view?r=eyJrIjoiZGQwNmMyODctYjBlMS00NjhjLTk5MmMtNTNkZjc4YzY4YTdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
+🔷Live Dashboard - 
+https://app.powerbi.com/view?r=eyJrIjoiZGQwNmMyODctYjBlMS00NjhjLTk5MmMtNTNkZjc4YzY4YTdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 #Overview:
 #Project: Provide Insights on Finance,sales,Marketing,Supply Chain to the Management. Domain: Manufacturing Domain
